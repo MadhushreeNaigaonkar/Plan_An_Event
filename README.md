@@ -12,7 +12,7 @@ This project is a demo project built with the help of ReactJS and Material UI
    5. Material UI SVG icons<br />
    6. Grid Container<br />
    7. Vertical divider<br />
-  
+  <hr>
  ## Also customized these components according to need.
  
  ## Referance:
@@ -25,3 +25,6 @@ This project is a demo project built with the help of ReactJS and Material UI
 
         // with yarn
            yarn add @material-ui/core
+<hr>
+
+# Thank You
